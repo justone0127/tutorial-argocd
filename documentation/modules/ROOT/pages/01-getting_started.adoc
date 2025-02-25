@@ -12,7 +12,7 @@ OpenShift 웹 터미널에서 Argo CD 명령어를 구성합니다.
 === CLI 터미널
 
 OpenShift 웹콘솔의 오른쪽 상단의 웹 터미널 아이콘을 클릭하여 CLI 터미널 창을 엽니다. 그 다음 '시작’버튼을 눌러 터미널을 활성화 합니다.
-터미널 활성화 프로젝트는 `retial-userX`를 선택합니다. (userX는 자신이 부여 받은 userX 입니다)
+터미널 활성화 프로젝트는 *retial-userX*를 선택합니다. (userX는 자신이 부여 받은 userX 입니다)
 
 image::webt-1.png[SampleApp]
 
